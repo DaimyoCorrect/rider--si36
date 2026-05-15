@@ -1,4 +1,4 @@
-# 
+# JetBrains Rider for PC | JetBrains Rider for Windows rare Extension: docker-support & refactoring-tools offers the most advanced JetBrains Rider for PC | JetBrains Rider for
 
 
 
